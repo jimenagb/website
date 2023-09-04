@@ -1,0 +1,60 @@
+--- 
+title: "Teaching philosophy"
+output: 
+  html_document:
+    css: ['CSSBackgrounds.css', 'CSSFonts.css']
+    includes:
+      after_body: footer.html
+---
+
+
+Throughout my path in academia, I have become increasingly aware of the importance of fostering a growth mindset, curiosity, and creativity in students to increase the positive impacts of teaching in our society.  
+
+I believe that a clear roadmap for student success is key to make goals more achievable, cultivating a growth mindset in the process. As part of my course design, I present clear goals that closely align with learning outcomes, while providing fair assessment, room for low-stakes errors, and constructive feedback to evaluate learning (Wiggins and McTighe 2011; Rauschert et al. 2019). I want students to gain confidence over acquired knowledge as well as learn from trial and error to identify learning gaps more effectively. For this reason, I break down content into achievable goals, encourage learning from errors, while also instilling curiosity.  
+
+Although I value lectures, my favorite active learning teaching methods include inquiry or problem-based activities. I have been fortunate to explore diverse natural environments in my native country Costa Rica, and abroad. Therefore, I love to share my passion for learning through concrete experiences, such as delving in a case study or exploring an issue in biological diversity. One way I instill curiosity in my students is through an activity on biodiversity for the General Ecology course at University of Wyoming. Students practiced biodiversity metrics on their taxonomic group and location of choice using iNaturalist, a popular citizen science platform and growing online database. Similarly, I presented students with a novel tool: Nextstrain.org, asking them to describe how a pathogen of their choice travelled around the world. I constantly seek opportunities to present both inquiry-based content in multiple ways, fostering curiosity and learning. The process of learning is inherently multifaceted; thus, I believe that integrating content and assessment tools in various forms can be beneficial for student learning. For instance, I have implemented individual and team-based quizzes, to encourage collaboration and helping of others.    
+
+Integrating the interests of students is a powerful way to cultivate a learning drive and self-confidence. Moreover, hands-on experience in which students take concepts learned in class and apply it to solve a puzzle or societal problem they are interested in is an ideal way to transfer knowledge that directly matches societal needs (McInerney et al. 2011, Delić and Bećirović 2016). One way I am currently implementing an experiential learning framework is through an environmental DNA (eDNA) lab in a Genetics course (Walker and Rocconi 2022). In this activity students learned the steps of a scientific project starting with a concrete experience in wildlife conservation involving the detection of a local aquatic species of conservation concern, listening to local conservation practitioners, developing, and implementing a monitoring protocol, reflecting on their understanding of a tool in molecular genetics, and suggesting new ideas for future projects.  
+
+In addition to incorporating customized content, instilling curiosity and critical thinking, I also believe in integrating relevant and diverse examples into teaching, so that students can witness more of the diverse and intercultural community currently involved in the process of discovery, science, and technology (Landreman 2013; Tanner 2013). I deeply value the opportunity to be constantly growing professionally, discussing scientific ideas, and celebrating diversity through my teaching at Lees McRae this Spring 2022. Just as previous researchers encouraged me to pursue science, I pursue opportunities to inspire and help others to do so. 
+
+
+### Instructor experience
+Genetics (Lees McRae College –Spring 2022)  
+General Zoology (Lees McRae College –Spring 2022)  
+Introduction to Evolution (Lees McRae College –Spring 2022)  
+General Biology (Lees McRae College –Fall 2021) 
+
+
+### Teaching assistant experience
+Ecology (University of Wyoming –Spring 2020)  
+Marine Biology (University of Wyoming –Fall 2019)  
+Evolutionary Biology (University of Wyoming 2016-2017)  
+Zoology (University of Konstanz, Germany Fall 2014)  
+
+### Lab instructor experience
+Genetics (LaUniversity of Wyoming –Spring 2018)  
+General Biology (University of Wyoming Fall 2015)  
+
+I have also organized career panels, University of Wyoming's PiE Student Symposium and #CienciaTica Symposium together with Dr. [Juan Moreira Hernandez](https://scholar.google.com/citations?user=xCGg3AgAAAAJ&hl=en), as well as co-taught workshops in Tanzania together with fellow CE Wagner Lab Dr. [Jessica Rick](http://jessicarick.com) on:
+Intro to R computer programming (Summer 2019)
+Statistical Analyses and Advanced R Programming for Fisheries (Summer 2018)
+
+
+### Outreach
+Along with my research interests, I strive to be an engaging science communicator activities involving both adult and children audiences. Please contact me if you are interested in a guest lecture or outreach activity on biodiversity, freshwater fish conservation or to chat about research. I love discussing scientific ideas and sharing experiences while doing aquatic fieldwork!
+Every so often I make short movies that I share through a youtube channel, if interested check this one I made of [Lake Tanganyika](https://www.youtube.com/watch?v=ekSZXCzmmfc). 
+I also post some of my iNaturalist images in my [Instagram](https://www.instagram.com/golcherbenavides/?hl=en) account.
+
+
+### Citations
+Delić, H., & Bećirović, S. (2016). Socratic method as an approach to teaching. European Researcher. Series A, (10), 511-517.  
+Landreman, L. M. (Ed.). (2013). The art of effective facilitation: Reflections from social justice educators. Stylus Publishing, LLC..  
+McInerney, P., Smyth, J., & Down, B. (2011). ‘Coming to a place near you?’The politics and possibilities of a critical pedagogy of place-based education. Asia-Pacific journal of teacher education, 39(1), 3-16.  
+Rauschert, E. S., Yang, S., & Pigg, R. M. (2019). Which of the Following Is True: We Can Write Better Multiple Choice Questions. The Bulletin of the Ecological Society of America, 100(1), e01468.  
+Tanner, K. D. (2013). Structure matters: twenty-one teaching strategies to promote student engagement and cultivate classroom equity. CBE—Life Sciences Education, 12(3), 322-331.  
+Walker, J. P., & Rocconi, L. M. (2021). Experiential Learning Student Surveys: Indirect Measures of Student Growth. Research & Practice in Assessment, 16(1), 21-35.  
+Wiggins, G. P., & McTighe, J. (2011). The understanding by design guide to creating high-quality units. ASCD.  
+iNaturalist. Available from https://www.inaturalist.org. Accessed [06/30/2022].  
+
+
