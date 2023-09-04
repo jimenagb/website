@@ -1,7 +1,17 @@
 ---
 title: "Jimena Golcher-Benavides"
-output: html_document
+output: 
+  html_document:
+    css: ['CSSBackgrounds.css', 'CSSFonts.css']
+    includes:
+      after_body: footer.html
 ---
+
+</div>
+<div class="col-sm-6">
+![](IMG_0935.jpg)
+</a>
+</div>
 
 <style type="text/css">
 .title {
@@ -19,25 +29,28 @@ output: html_document
 
 # **Jimena Golcher-Benavides**
 
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
+I am a biologist broadly interested in ***biodiversity***. Within this topic, I am fascinated by freshwater fishes and the use of techniques in evolutionary ecology to study their diversity origins.
 
-## How to use
+## Biodiversity. Ecology. Evolution.
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
+1. ***Biodiversity*** encapsulates all living organisms on earth, their genes, forms, and functions.
 
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
+2. ***Ecology*** is the study of interactions involving organisms and their physical environment.
 
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
+3. ***Evolution*** posits the unity of life on earth through descent with modification. 
 
-4. Change everything to make it your own.
+<!-- This centers the title text on this page.  -->
 
+<style type="text/css">
 
-</div>
-<div class="col-sm-6">
+h1.title {
+  font-size: 60px;
+  color: ;
+  text-align: center;
+}
+</style>
 
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
+![](./Chorei2-02.png)
 
-<a href = "https://crumplab.github.io">
-![](images/logo.png)
-</a>
-</div>
+*Ctenochromis* *horei*, a modern haplochromine cichlid from the Lake Tanganyika basin.
+
