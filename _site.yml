@@ -1,6 +1,6 @@
-name: "MyLabJournal"
+name: "Jimena Golcher-Benavides"
 navbar:
-  title: "MyLabJournal"
+  title: "jimenagb"
   left:
     - text: "Home"
       href: index.html
