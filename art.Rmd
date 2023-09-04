@@ -1,0 +1,22 @@
+--- 
+title: "Art"
+output: 
+  html_document:
+    css: ['CSSBackgrounds.css', 'CSSFonts.css']
+    includes:
+      after_body: footer.html
+---
+
+Contact me if you are interested in using any of these digital images (CC-BY-NC). If you'd like to buy these as stickers: check out my new [Redbubble shop](https://www.redbubble.com/people/memegb/explore?page=1&sortOrder=recent)!
+
+![](./cartoon_alone-01.png)
+![](./cartoon_alone-02.png)
+
+![](./cartoon_alone-03.png)
+
+![](./cartoon_alone-03.png)
+![](./cartoon_alone-04.png)
+
+![](./cartoon_alone-05.png)
+
+![](./cartoon_alone-06.png)
