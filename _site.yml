@@ -12,12 +12,8 @@ navbar:
       href: teaching.html
     - text: "Journal"
       href: Journal.html
-    - text: "Code"
-      href: Code.html
     - text: "CV"
       href: cv.html
-    - text: "Art"
-      href: art.html
     - text: "Contact"
       href: contact.html
 output_dir: "docs"
