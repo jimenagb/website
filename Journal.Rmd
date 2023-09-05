@@ -400,7 +400,7 @@ Now we have explored how to make a few plots using base R and some of the newest
 ## Step 14:  Run a simple statistical test
 As a biologist, one of the first statistical tests we learn is how to calculate a Chi-squared value. For instance, such tests are used in the context of transmission genetics, together with the Chi-squared value distribution table to test for significance rejecting a null hypothesis of observations deviating or not from expected. As you already guessed it, R can do this for you and much more. We will start by learning how to do this test using the console, and review how to interpret results of the *chisq.test()* function in base R using the Titanic toy data set.
 
-***Question 10:*** What would be **1)**the null and **2)**the alternative hypotheses for a Chi-squared test looking at passenger survival by class? After running the code below: **3)**Was the p-value significant? **4)** What does this mean?  
+***Question 10:*** What would be **1)** the null and **2)** the alternative hypotheses for a Chi-squared test looking at passenger survival by class? After running the code below: **3)** Was the p-value significant? **4)** What does this mean?  
 ***A/***
 ```{r, eval=FALSE}
 #Chi-squared test using R
@@ -436,5 +436,5 @@ For more learning resources on how to use R & R Studio, check out these guidelin
 
 # Other useful code
 
-I will include here some other useful R code. *Come* *back* *soon* 
+I will include here other useful R tutorials or R code in the near future *Come* *back* *soon*.
 
