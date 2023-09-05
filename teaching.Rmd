@@ -8,18 +8,23 @@ output:
 ---
 
 
-Throughout my path in academia, I have become increasingly aware of the importance of fostering a growth mindset, curiosity, and creativity in students to increase the positive impacts of teaching in our society.  
+<script>
+   $(document).ready(function() {
+     $head = $('#header');
+     $head.prepend('<img src=\"IMG_5008.jpg\" style=\"float: right;width: 300px;padding: 20px\"/>')
+   });
+</script>
 
-I believe that a clear roadmap for student success is key to make goals more achievable, cultivating a growth mindset in the process. As part of my course design, I present clear goals that closely align with learning outcomes, while providing fair assessment, room for low-stakes errors, and constructive feedback to evaluate learning (Wiggins and McTighe 2011; Rauschert et al. 2019). I want students to gain confidence over acquired knowledge as well as learn from trial and error to identify learning gaps more effectively. For this reason, I break down content into achievable goals, encourage learning from errors, while also instilling curiosity.  
+Although I value lectures, my favorite active learning teaching methods include inquiry or problem-based activities. I have been fortunate to explore diverse natural environments in my native country Costa Rica, and abroad. Therefore, I love to share my passion for learning through concrete experiences, such as delving in a case study or exploring an issue in biological diversity. 
 
-Although I value lectures, my favorite active learning teaching methods include inquiry or problem-based activities. I have been fortunate to explore diverse natural environments in my native country Costa Rica, and abroad. Therefore, I love to share my passion for learning through concrete experiences, such as delving in a case study or exploring an issue in biological diversity. One way I instill curiosity in my students is through an activity on biodiversity for the General Ecology course at University of Wyoming. Students practiced biodiversity metrics on their taxonomic group and location of choice using iNaturalist, a popular citizen science platform and growing online database. Similarly, I presented students with a novel tool: Nextstrain.org, asking them to describe how a pathogen of their choice travelled around the world. I constantly seek opportunities to present both inquiry-based content in multiple ways, fostering curiosity and learning. The process of learning is inherently multifaceted; thus, I believe that integrating content and assessment tools in various forms can be beneficial for student learning. For instance, I have implemented individual and team-based quizzes, to encourage collaboration and helping of others.    
+One way I instill curiosity in my students is through an activity on biodiversity for the General Ecology course at University of Wyoming. Students practiced biodiversity metrics on their taxonomic group and location of choice using iNaturalist, a popular citizen science platform and growing online database. Similarly, I presented students with a novel tool: Nextstrain.org, asking them to describe how a pathogen of their choice travelled around the world. I constantly seek opportunities to present both inquiry-based content in multiple ways, fostering curiosity and learning. The process of learning is inherently multifaceted; thus, I believe that integrating content and assessment tools in various forms can be beneficial for student learning. For instance, I have implemented individual and team-based quizzes, to encourage collaboration and helping of others.    
 
-Integrating the interests of students is a powerful way to cultivate a learning drive and self-confidence. Moreover, hands-on experience in which students take concepts learned in class and apply it to solve a puzzle or societal problem they are interested in is an ideal way to transfer knowledge that directly matches societal needs (McInerney et al. 2011, Delić and Bećirović 2016). One way I am currently implementing an experiential learning framework is through an environmental DNA (eDNA) lab in a Genetics course (Walker and Rocconi 2022). In this activity students learned the steps of a scientific project starting with a concrete experience in wildlife conservation involving the detection of a local aquatic species of conservation concern, listening to local conservation practitioners, developing, and implementing a monitoring protocol, reflecting on their understanding of a tool in molecular genetics, and suggesting new ideas for future projects.  
+
+Integrating the interests of students is a powerful way to cultivate a learning drive and self-confidence. Moreover, hands-on experience in which students take concepts learned in class and apply it to solve a puzzle or societal problem they are interested in is an ideal way to transfer knowledge that directly matches societal needs (McInerney et al. 2011, Delić and Bećirović 2016). One way I am currently implementing an experiential learning framework (as described in Walker and Rocconi 2022) is through an environmental DNA (eDNA) lab in a Genetics course [recently published here](https://ctl.acaweb.org/digging-deeper/environmental-dna-in-the-classroom-a-case-study/). In this activity students learned the steps of a scientific project starting with a concrete experience in wildlife conservation involving the detection of a local aquatic species of conservation concern, listening to local conservation practitioners, developing, and implementing a monitoring protocol, reflecting on their understanding of a tool in molecular genetics, and suggesting new ideas for future projects.
 
 In addition to incorporating customized content, instilling curiosity and critical thinking, I also believe in integrating relevant and diverse examples into teaching, so that students can witness more of the diverse and intercultural community currently involved in the process of discovery, science, and technology (Landreman 2013; Tanner 2013). I deeply value the opportunity to be constantly growing professionally, discussing scientific ideas, and celebrating diversity through my teaching at Lees McRae this Spring 2022. Just as previous researchers encouraged me to pursue science, I pursue opportunities to inspire and help others to do so. 
 
-
-### Instructor experience
+### Instructor of record experience
 Genetics (Lees McRae College –Spring 2022)  
 General Zoology (Lees McRae College –Spring 2022)  
 Introduction to Evolution (Lees McRae College –Spring 2022)  
@@ -57,4 +62,5 @@ Walker, J. P., & Rocconi, L. M. (2021). Experiential Learning Student Surveys: I
 Wiggins, G. P., & McTighe, J. (2011). The understanding by design guide to creating high-quality units. ASCD.  
 iNaturalist. Available from https://www.inaturalist.org. Accessed [06/30/2022].  
 
-
+![](./hell_jime.png)
+<center>An illustration of [*Cryptobranchus* *alleganiensis*](https://en.wikipedia.org/wiki/Hellbender) a vulnerable species endemic to the eastern and central United States.<center>
