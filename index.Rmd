@@ -1,5 +1,5 @@
 ---
-title: "Jimena Golcher-Benavides"
+title: "I am Jimena Golcher-Benavides"
 output: 
   html_document:
     css: ['CSSBackgrounds.css', 'CSSFonts.css']
@@ -7,50 +7,10 @@ output:
       after_body: footer.html
 ---
 
-</div>
-<div class="col-sm-6">
-![](IMG_0935.jpg)
-</a>
-</div>
+A biologist studying freshwater fishes using techniques in evolutionary ecology to study their diversity origins and conservation issues.
 
-<style type="text/css">
-.title {
-  display: none;
-}
-
-#getting-started img {
-  margin-right: 10px;
-}
-
-</style>
-
-<div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
-
-# **Jimena Golcher-Benavides**
-
-I am a biologist broadly interested in ***biodiversity***. Within this topic, I am fascinated by freshwater fishes and the use of techniques in evolutionary ecology to study their diversity origins.
-
-## Biodiversity. Ecology. Evolution.
-
-1. ***Biodiversity*** encapsulates all living organisms on earth, their genes, forms, and functions.
-
-2. ***Ecology*** is the study of interactions involving organisms and their physical environment.
-
-3. ***Evolution*** posits the unity of life on earth through descent with modification. 
-
-<!-- This centers the title text on this page.  -->
-
-<style type="text/css">
-
-h1.title {
-  font-size: 60px;
-  color: ;
-  text-align: center;
-}
-</style>
 
 ![](./Chorei2-02.png)
 
-*Ctenochromis* *horei*, a modern haplochromine cichlid from the Lake Tanganyika basin.
+<center>*Ctenochromis* *horei*, a modern haplochromine cichlid from the Lake Tanganyika basin, East Africa.<center>
 
