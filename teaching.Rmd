@@ -11,18 +11,19 @@ output:
 <script>
    $(document).ready(function() {
      $head = $('#header');
-     $head.prepend('<img src=\"IMG_5008.jpg\" style=\"float: right;width: 300px;padding: 20px\"/>')
+     $head.prepend('<img src=\"IMG_2519.JPG\" style=\"float: right;width: 300px;padding: 20px\"/>')
    });
 </script>
 
-Although I value lectures, my favorite active learning teaching methods include inquiry or problem-based activities. I have been fortunate to explore diverse natural environments in my native country Costa Rica, and abroad. Therefore, I love to share my passion for learning through concrete experiences, such as delving in a case study or exploring an issue in biological diversity. 
+  <!-- ![](./IMG_5008low.jpg){width=85px}*Learning biology outside of the classroom* -->
 
-One way I instill curiosity in my students is through an activity on biodiversity for the General Ecology course at University of Wyoming. Students practiced biodiversity metrics on their taxonomic group and location of choice using iNaturalist, a popular citizen science platform and growing online database. Similarly, I presented students with a novel tool: Nextstrain.org, asking them to describe how a pathogen of their choice travelled around the world. I constantly seek opportunities to present both inquiry-based content in multiple ways, fostering curiosity and learning. The process of learning is inherently multifaceted; thus, I believe that integrating content and assessment tools in various forms can be beneficial for student learning. For instance, I have implemented individual and team-based quizzes, to encourage collaboration and helping of others.    
+Although I value lectures, my favorite active learning teaching methods include experiential learning, inquiry or problem-based activities. My goal is to spark curiosity about biology through concrete experiences, real world examples and evaluating issues in conservation from different perspectives 
 
+One way I instill curiosity in my students is through an activity on biodiversity for the General Ecology course at University of Wyoming. Students practiced biodiversity metrics on their taxonomic group and location of choice using iNaturalist, a popular citizen science platform and growing online database. Since I am an active user of iNaturalist (over ~3,000 observations), I am able to share my passion for engagement in the scientific process beyond academic settings. Similarly, I love presenting students with other innovative sofware such as Nextstrain.org, asking them to describe how a pathogen of their choice travelled around the world. I keep my self up-to-date in technological advances and constantly seek opportunities to present both inquiry-based content in multiple ways, fostering curiosity and learning. 
 
-Integrating the interests of students is a powerful way to cultivate a learning drive and self-confidence. Moreover, hands-on experience in which students take concepts learned in class and apply it to solve a puzzle or societal problem they are interested in is an ideal way to transfer knowledge that directly matches societal needs (McInerney et al. 2011, Delić and Bećirović 2016). One way I am currently implementing an experiential learning framework (as described in Walker and Rocconi 2022) is through an environmental DNA (eDNA) lab in a Genetics course [recently published here](https://ctl.acaweb.org/digging-deeper/environmental-dna-in-the-classroom-a-case-study/). In this activity students learned the steps of a scientific project starting with a concrete experience in wildlife conservation involving the detection of a local aquatic species of conservation concern, listening to local conservation practitioners, developing, and implementing a monitoring protocol, reflecting on their understanding of a tool in molecular genetics, and suggesting new ideas for future projects.
+The process of learning is inherently multifaceted; thus, I believe that integrating content and assessment tools in various forms can be beneficial for student learning. For instance, I use individual and team-based quizzes, to encourage collaboration and helping of others. Integrating the interests of students is another way to cultivate a learning drive and self-confidence that can promote peer-learning. Class projects in which students take concepts learned in class and apply it to solve a puzzle or societal problem of their choice is a powerful way to transfer knowledge that directly matches societal needs (McInerney et al. 2011, Delić and Bećirović 2016). One way I have implemented such an experiential learning framework (as described in Walker and Rocconi 2022) is through an environmental DNA (eDNA) lab in a Genetics course [recently published here](https://ctl.acaweb.org/digging-deeper/environmental-dna-in-the-classroom-a-case-study/). In this activity students learned the steps of a scientific project starting with a concrete experience in wildlife conservation involving the detection of a local aquatic species of conservation concern, listening to local conservation practitioners, developing, and implementing a monitoring protocol, reflecting on their understanding of a tool in molecular genetics, and suggesting new ideas for future projects.
 
-In addition to incorporating customized content, instilling curiosity and critical thinking, I also believe in integrating relevant and diverse examples into teaching, so that students can witness more of the diverse and intercultural community currently involved in the process of discovery, science, and technology (Landreman 2013; Tanner 2013). I deeply value the opportunity to be constantly growing professionally, discussing scientific ideas, and celebrating diversity through my teaching at Lees McRae this Spring 2022. Just as previous researchers encouraged me to pursue science, I pursue opportunities to inspire and help others to do so. 
+In addition to incorporating customized content, instilling curiosity and critical thinking, I also believe in integrating relevant and diverse examples into teaching, so that students can witness more of the diverse and intercultural community currently involved in the process of discovery, science, and technology (Landreman 2013; Tanner 2013). I deeply value the opportunity to be constantly growing professionally, discussing scientific ideas, and celebrating diversity through my teaching. Just as previous researchers encouraged me to pursue science, I pursue opportunities to inspire and help others to do so. 
 
 ### Instructor of record experience
 Genetics (Lees McRae College –Spring 2022)  
@@ -39,18 +40,30 @@ Zoology (University of Konstanz, Germany Fall 2014)
 
 ### Lab instructor experience
 Genetics (LaUniversity of Wyoming –Spring 2018)  
-General Biology (University of Wyoming Fall 2015)  
+General Biology (University of Wyoming Fall 2015)
 
-I have also organized career panels, University of Wyoming's PiE Student Symposium and #CienciaTica Symposium together with Dr. [Juan Moreira Hernandez](https://scholar.google.com/citations?user=xCGg3AgAAAAJ&hl=en), as well as co-taught workshops in Tanzania together with fellow CE Wagner Lab Dr. [Jessica Rick](http://jessicarick.com) on:
+### Service
+I have served as reviewer for Journal of Evolutionary Biology, Hydrobiologia, Journal of Great Lakes Research, Functional Ecology, and the International Journal of Tropical Biology and Conservation (Rev. Biol. Trop. 2016-2022). I have also participated in and helped organized career panels, University of Wyoming's PiE Student Symposium, and #CienciaTica Symposium together with Dr. [Juan Moreira Hernandez](https://scholar.google.com/citations?user=xCGg3AgAAAAJ&hl=en), as well as co-taught workshops in Tanzania together with fellow CE Wagner Lab Dr. [Jessica Rick](http://jessicarick.com) on:
 Intro to R computer programming (Summer 2019)
 Statistical Analyses and Advanced R Programming for Fisheries (Summer 2018)
 
+<center>![](./PiESymposium2017invite.png){width=250px}![](./PiESymposium2018invite.png){width=250px}<center>![](./CienciaTica2.png){width=250px}![](./CienciaTica1.png){width=250px}<center>
+<center>*Flyers I've made for events I helped organize*<center>
+ 
+![](./Hat_logo_jgb_v3-2-06.png){width=250px}![](./Logo_GSN_2018-03.png){width=250px}
+<center>*Example logos I've made over the years*<center>
 
 ### Outreach
-Along with my research interests, I strive to be an engaging science communicator activities involving both adult and children audiences. Please contact me if you are interested in a guest lecture or outreach activity on biodiversity, freshwater fish conservation or to chat about research. I love discussing scientific ideas and sharing experiences while doing aquatic fieldwork!
-Every so often I make short movies that I share through a youtube channel, if interested check this one I made of [Lake Tanganyika](https://www.youtube.com/watch?v=ekSZXCzmmfc). 
-I also post some of my iNaturalist images in my [Instagram](https://www.instagram.com/golcherbenavides/?hl=en) account.
+Along with my research interests, I strive to be an engaging science communicator activities involving both adult and children audiences.
 
+Recently, Alessandra Baltodano from [Wimblu](https://wimblu.com/en/) invited me to be a guest in their magazine's podcast for an episode about "Inseparable lineages" where we discussed the unity of all forms of life ([available here](https://wimblu.com/en/volumen-5/linajes-inseparables/)). Every so often, I make short videos that I share through a youtube channel, if interested check this one I made of [Lake Tanganyika](https://www.youtube.com/watch?v=ekSZXCzmmfc). I also post nature photography in my [Instagram](https://www.instagram.com/golcherbenavides/?hl=en) account.
+
+Please contact me if you are interested in a guest lecture or outreach activity on biodiversity, freshwater fish conservation, or to chat about cool fish. 
+
+If you would like classroom material about fish, check [this worksheet](./Fish_Underwater_4thGrade_28jan2021.pdf) I prepared to introduced 4th grade students to fish biology.
+
+<center>![](./WimbluArtByCarolinaBelloMay.png){width=250px}<center>
+<center>Art by Wimblu Carolina Bello May*<center>
 
 ### Citations
 Delić, H., & Bećirović, S. (2016). Socratic method as an approach to teaching. European Researcher. Series A, (10), 511-517.  

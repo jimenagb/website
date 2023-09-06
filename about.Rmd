@@ -15,7 +15,7 @@ output:
    });
 </script>
 
-I’m currently a postdoctoral researcher in the Department of Natural Resource Ecology and Management at Iowa State University. As part of a multi-agency collaboration, I investigate recruitment patterns of carp species in the genus *Hypophthalmichthys* sp. known as bigheaded carps invading the Mississippi River Basin. Currently, I am delving into the temporal dynamics of gene introgression between the two bigheaded carps using reduced-representation RAD-sequencing data. ![](./SilverCarp.png) ![](./BigheadCarp.png) 
+I’m currently a postdoctoral researcher in the Department of Natural Resource Ecology and Management at Iowa State University. As part of a multi-agency collaboration, I investigate recruitment patterns of carp species in the genus *Hypophthalmichthys* sp. known as bigheaded carps invading the Mississippi River Basin. Currently, I am delving into the temporal dynamics of gene introgression between the two bigheaded carps using reduced-representation RAD-sequencing data.![](./SilverCarpVector-01.png){width=85px}*Silver Carp* ![](./SilverCarpVector-02.png){width=85px}*Bighead Carp*
  
  
  In 2021, I graduated from the interdisciplinary [Program in Ecology](http://www.uwyo.edu/pie/) as part of [Dr. Catherine Wagner's Lab](https://cewagnerlab.com/) at University of Wyoming, Laramie WY. For my PhD, I studied drivers of cichlid fish diversity in the shallow littoral of Lake Tanganyika, East Africa, combining population genomic technologies, biodiversity surveys, behavioral assays, and natural history observations. Such an integrative approach provided a unique glimpse into both the origination and persistence processes underlying endemic ichthyofaunal diversity accumulation.
