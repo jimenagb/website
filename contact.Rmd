@@ -8,8 +8,7 @@ output:
 ---
 
 Email:
-
-jgolcher at iastate dot edu
+jgolcherbenavides at gmail dot com
 
 <!-- This adds the link to my ORCID iD -->
 
