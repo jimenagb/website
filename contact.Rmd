@@ -7,6 +7,7 @@ output:
       after_body: footer.html
 ---
 
+
 Email:
 jgolcherbenavides at gmail dot com
 
@@ -19,3 +20,7 @@ jgolcherbenavides at gmail dot com
 <a class="twitter-timeline" href="https://twitter.com/memegb?ref_src=twsrc%5Etfw" data-tweet-limit="3" data-width="500">Tweets by memegb</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script>
 
 <!-- Including CSSmics.css in the yaml at the beginning of this file adds the large formatted social media icons to this page.  -->
+
+
+## Acknowledgement
+I have followed [this tutorial ](https://www.youtube.com/watch?v=nc7XhQrasCM) created by Dr. Matthew Crump's Computational Cognition Lab to build this academic website. 
