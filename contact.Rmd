@@ -23,4 +23,4 @@ jgolcherbenavides at gmail dot com
 
 
 ## Acknowledgement
-I have followed [this tutorial ](https://www.youtube.com/watch?v=nc7XhQrasCM) created by Dr. Matthew Crump's Computational Cognition Lab to build this academic website. 
+I got inspired by Megan Barkdull (meganbarkdull_ on twitter) and have followed [this tutorial ](https://www.youtube.com/watch?v=nc7XhQrasCM) created by Dr. Matthew Crump's Computational Cognition Lab to build this academic website. 
