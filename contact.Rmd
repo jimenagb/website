@@ -7,9 +7,13 @@ output:
       after_body: footer.html
 ---
 
+Address:
+A. Paul Schaap Science Center
+35 East 12th Street
+Holland, MI 49423
 
 Email:
-jgolcherbenavides at gmail dot com
+golcherbenavides at hope dot edu
 
 <script>
    $(document).ready(function() {
