@@ -1,0 +1,13 @@
+--- 
+title: "Members"
+output: 
+  html_document:
+    css: ['CSSBackgrounds.css', 'CSSFonts.css']
+    includes:
+      after_body: footer.html
+---
+This page will soon feature the work of undergraduate researchers at Hope College that will be joining my lab. Stay tuned!
+
+## Prospective members
+My lab is currently recruiting undergraduate students at Hope College that are interested in aquatic research. Students excited to do lab, field work, and/or a mix of both lab and field work are welcome to contact me!  
+If you are interested in joining the Freshwater Biology Conservation lab, please check the website and think about what topic is most aligned to your interests and goals. Please contact me and we can chat about opportunities!

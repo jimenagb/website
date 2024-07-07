@@ -1,5 +1,5 @@
 --- 
-title: "Teaching philosophy"
+title: "Courses"
 output: 
   html_document:
     css: ['CSSBackgrounds.css', 'CSSFonts.css']
@@ -11,36 +11,29 @@ output:
 <script>
    $(document).ready(function() {
      $head = $('#header');
-     $head.prepend('<img src=\"IMG_2519.JPG\" style=\"float: right;width: 300px;padding: 20px\"/>')
+     $head.prepend('<img src=\"aquaticecosystemsfall24.png\" style=\"float: right;width: 600px;padding: 20px\"/>')
    });
 </script>
 
-  <!-- ![](./IMG_5008low.jpg){width=85px}*Learning biology outside of the classroom* -->
+This fall 2024, I will be teaching the course: "Aquatic Ecosystems" at Hope College in Michigan.
 
-Although I value lectures, my favorite active learning teaching methods include inquiry or problem-based activities. My goal is to spark curiosity about biology through concrete experiences, real world examples and evaluating issues in conservation from different perspectives. 
+### Teaching experience
+I have taught Genetics, General Zoology, Introduction to Evolution, and General Biology as instructor of record. I have assisted courses in General Biology, Ecology, Evolutionary Biology and Zoology.
 
-One way I instill curiosity in my students is through an activity on biodiversity for the General Ecology course at University of Wyoming. Students practiced biodiversity metrics on their taxonomic group and location of choice using iNaturalist, a popular citizen science platform and growing online database. Since I am [an active user](https://www.inaturalist.org/users/318056) of iNaturalist (over ~3,000 observations so far), I am able to demonstrate my engagement for scientific literacy beyond an academic setting. Similarly, I love presenting students with other innovative sofware such as Nextstrain.org, asking them to describe how a pathogen of their choice travelled around the world. I keep my self up-to-date in technological advances and constantly seek opportunities to present both inquiry-based content in multiple ways, fostering curiosity and learning. 
+## Teaching Statement
 
-The process of learning is inherently multifaceted; thus, I believe that integrating content and assessment tools in various forms can be beneficial for student learning. For instance, I use individual and team-based quizzes, to encourage collaboration and helping of others. Integrating the interests of students is another way to cultivate a learning drive and self-confidence that can promote peer-learning. Class projects in which students take concepts learned in class and apply it to solve a puzzle or societal problem of their choice is a powerful way to transfer knowledge that directly matches societal needs (McInerney et al. 2011, Delić and Bećirović 2016). One way I have implemented such an experiential learning framework (as described in Walker and Rocconi 2022) is through an environmental DNA (eDNA) lab in a Genetics course [recently published here](https://ctl.acaweb.org/digging-deeper/environmental-dna-in-the-classroom-a-case-study/). In this activity students learned the steps of a scientific project starting with a concrete experience in wildlife conservation involving the detection of a local aquatic species of conservation concern, listening to local conservation practitioners, developing, and implementing a monitoring protocol, reflecting on their understanding of a tool in molecular genetics, and suggesting new ideas for future projects.
+*“Wisdom* *is* *not* *a* *product* *of* *schooling* *but* *of* *the* *lifelong* *attempt* *to* *acquire* *it.”* — Albert Einstein
 
-In addition to incorporating customized content, instilling curiosity and critical thinking, I also believe in integrating relevant and diverse examples into teaching, so that students can witness more of the diverse and intercultural community currently involved in the process of discovery, science, and technology (Landreman 2013; Tanner 2013). I deeply value the opportunity to be constantly growing professionally, discussing scientific ideas, and celebrating diversity through my teaching. Just as previous researchers encouraged me to pursue science, I pursue opportunities to inspire and help others to do so. 
+My goal is to spark curiosity about biology through concrete experiences, real world examples and evaluating issues in conservation from different perspectives.
 
-### Instructor of record experience
-Genetics (Lees McRae College –Spring 2022)  
-General Zoology (Lees McRae College –Spring 2022)  
-Introduction to Evolution (Lees McRae College –Spring 2022)  
-General Biology (Lees McRae College –Fall 2021) 
+One way I instill curiosity in my students is through active learning activities. For instance, students in ecology practiced biodiversity metrics on their taxonomic group and location of choice using iNaturalist, a popular public science platform and growing online biodiversity database. As [an active user](https://www.inaturalist.org/users/318056) of iNaturalist (over ~3,000 observations so far), I was also able to demonstrate engagement for scientific activities beyond traditional settings.  I keep my self up-to-date in technological advances and constantly seek opportunities to present both inquiry-based content in multiple ways, fostering curiosity and learning. 
 
+The process of learning is inherently multifaceted; thus, I believe that integrating content and assessment tools in various forms can be beneficial for student learning. For instance, I use individual and team-based quizzes, to encourage collaboration and helping of others. Integrating the interests of students is another way to cultivate a learning drive and self-confidence that can promote peer-learning. Class projects in which students take concepts learned in class and apply it to solve a puzzle or societal problem of their choice is a powerful way to transfer knowledge that directly matches societal needs (McInerney et al. 2011, Delić and Bećirović 2016).
 
-### Teaching assistant experience
-Ecology (University of Wyoming –Spring 2020)  
-Marine Biology (University of Wyoming –Fall 2019)  
-Evolutionary Biology (University of Wyoming 2016-2017)  
-Zoology (University of Konstanz, Germany Fall 2014)  
+One way I have implemented such an experiential learning framework (as described in Walker and Rocconi 2022) is through an environmental DNA (eDNA) lab in a Genetics course [recently published here](https://acaweb.org/friendly.php?s=environmental_dna). In this activity students learned the steps of a scientific project starting with a concrete experience in wildlife conservation involving the detection of a local aquatic species of conservation concern, listening to local conservation practitioners, developing, and implementing a monitoring protocol, reflecting on their understanding of a tool in molecular genetics, and suggesting new ideas for future projects.
 
-### Lab instructor experience
-Genetics (LaUniversity of Wyoming –Spring 2018)  
-General Biology (University of Wyoming Fall 2015)
+In addition to incorporating customized content, instilling curiosity and critical thinking, I also believe in integrating relevant and diverse examples into teaching, so that students can witness more of the diverse and intercultural community currently involved in the process of discovery, science, and technology (Landreman 2013; Tanner 2013). I love discussing scientific ideas, and celebrating diversity through examples of varied scientific careers in my teaching. Just as previous researchers encouraged me to pursue science, I pursue opportunities to inspire and help others to do so. 
+
 
 ### Service
 I have served as reviewer for Journal of Evolutionary Biology, Hydrobiologia, Journal of Great Lakes Research, Functional Ecology, and the International Journal of Tropical Biology and Conservation (Rev. Biol. Trop. 2016-2022). I have also participated in and helped organized career panels, University of Wyoming's PiE Student Symposium, and #CienciaTica Symposium together with Dr. [Juan Moreira Hernandez](https://scholar.google.com/citations?user=xCGg3AgAAAAJ&hl=en), as well as co-taught workshops in Tanzania together with fellow CE Wagner Lab Dr. [Jessica Rick](http://jessicarick.com) on:
@@ -50,30 +43,32 @@ Statistical Analyses and Advanced R Programming for Fisheries (Summer 2018)
 <center>![](./PiESymposium2017invite.png){width=250px}![](./PiESymposium2018invite.png){width=250px}<center>![](./CienciaTica2.png){width=250px}![](./CienciaTica1.png){width=250px}<center>
 <center>*Flyers I've made for events I helped organize*<center>
  
-![](./Hat_logo_jgb_v3-2-06.png){width=250px}![](./Logo_GSN_2018-03.png){width=250px}
+![](./Hat_logo_jgb_v3-2-06.png){width=250px}![](./Logo_GSN_2018-03.png){width=250px}![](./ACE_logosJGB2apr2024_trans.png){width=250px}
 <center>*Example logos I've made over the years*<center>
 
-### Outreach
+### Service Outreach
 Along with my research interests, I strive to be an engaging science communicator activities involving both adult and children audiences.
 
-Recently, Alessandra Baltodano from [Wimblu](https://wimblu.com/en/) invited me to be a guest in their magazine's podcast for an episode about "Inseparable lineages" where we discussed the unity of all forms of life ([available here](https://wimblu.com/en/volumen-5/linajes-inseparables/)). Every so often, I make short videos that I share through a youtube channel, if interested check this one I made of [Lake Tanganyika](https://www.youtube.com/watch?v=ekSZXCzmmfc). I also post nature photography in my [Instagram](https://www.instagram.com/golcherbenavides/?hl=en) account.
+Recently, Alessandra Baltodano from [Wimblu](https://wimblu.com/en/) invited me to be a guest in their magazine's podcast for an episode about "Inseparable lineages" where we discussed the unity of all forms of life ([available here](https://wimblu.com/en/volumen-5/linajes-inseparables/)). 
+
+I enjoy acting as judge for State Science Fairs and I love making short videos that I share through a youtube channel, if interested check this one I made of [Lake Tanganyika](https://www.youtube.com/watch?v=ekSZXCzmmfc). I also post nature photography on my [Instagram](https://www.instagram.com/golcherbenavides/?hl=en) account.
 
 Please contact me if you are interested in a guest lecture or outreach activity on biodiversity, freshwater fish conservation, or to chat about cool fish. 
 
-If you would like classroom material about fish, check [this worksheet](./Fish_Underwater_4thGrade_28jan2021.pdf) I prepared to introduced 4th grade students to fish biology.
+If you would like classroom material about fish, check [this worksheet](./Fish_Underwater_4thGrade_28jan2021.pdf) I prepared to introduce 4th grade students to fish biology.
 
 <center>![](./WimbluArtByCarolinaBelloMay.png){width=250px}<center>
 <center>Art by Wimblu Carolina Bello May*<center>
 
 ### Citations
-Delić, H., & Bećirović, S. (2016). Socratic method as an approach to teaching. European Researcher. Series A, (10), 511-517.  
+Delić, H., and Bećirović, S. (2016). Socratic method as an approach to teaching. European Researcher. Series A, (10), 511-517.  
 Landreman, L. M. (Ed.). (2013). The art of effective facilitation: Reflections from social justice educators. Stylus Publishing, LLC..  
-McInerney, P., Smyth, J., & Down, B. (2011). ‘Coming to a place near you?’The politics and possibilities of a critical pedagogy of place-based education. Asia-Pacific journal of teacher education, 39(1), 3-16.  
-Rauschert, E. S., Yang, S., & Pigg, R. M. (2019). Which of the Following Is True: We Can Write Better Multiple Choice Questions. The Bulletin of the Ecological Society of America, 100(1), e01468.  
+McInerney, P., Smyth, J., and Down, B. (2011). ‘Coming to a place near you?’The politics and possibilities of a critical pedagogy of place-based education. Asia-Pacific journal of teacher education, 39(1), 3-16.  
+Rauschert, E. S., Yang, S., and Pigg, R. M. (2019). Which of the Following Is True: We Can Write Better Multiple Choice Questions. The Bulletin of the Ecological Society of America, 100(1), e01468.  
 Tanner, K. D. (2013). Structure matters: twenty-one teaching strategies to promote student engagement and cultivate classroom equity. CBE—Life Sciences Education, 12(3), 322-331.  
-Walker, J. P., & Rocconi, L. M. (2021). Experiential Learning Student Surveys: Indirect Measures of Student Growth. Research & Practice in Assessment, 16(1), 21-35.  
-Wiggins, G. P., & McTighe, J. (2011). The understanding by design guide to creating high-quality units. ASCD.  
+Walker, J. P., and Rocconi, L. M. (2021). Experiential Learning Student Surveys: Indirect Measures of Student Growth. Research & Practice in Assessment, 16(1), 21-35.  
+Wiggins, G. P., and McTighe, J. (2011). The understanding by design guide to creating high-quality units. ASCD.  
 iNaturalist. Available from https://www.inaturalist.org. Accessed [06/30/2022].  
 
-![](./hell_jime.png)
-<center>An illustration of [*Cryptobranchus* *alleganiensis*](https://en.wikipedia.org/wiki/Hellbender) a vulnerable species endemic to the eastern and central United States.<center>
+<center>![](./hell_jime.png){width=250px}<center>
+<center>An illustration of [*Cryptobranchus* *alleganiensis*](https://en.wikipedia.org/wiki/Hellbender) a vulnerable aquatic species endemic to the eastern and central United States.<center>
