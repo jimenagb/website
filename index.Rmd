@@ -15,10 +15,10 @@ output:
 
 
 
-Our research group at Hope College (MI, USA) studies tropical and temperate freshwater fishes. We combine approaches from different disciplines in ecology and evolution to better understand biological diversity origins. Our mission is to generate information that helps us tackle complex issues associated with freshwater ecosystem conservation.
+Our research group at Hope College (MI, USA) studies tropical and temperate freshwater fishes. We combine approaches in fisheries science, ecology, and evolutionary biology to better understand diversity origins across scales of biological organization. Our mission also includes the generation of information that helps us tackle the complex issues associated with aquatic biodiversity conservation.
 
 
-Nuestro grupo de investigación en Hope College (MI, USA) estudia peces de agua dulce en las zonas intertropical y templada. Combinamos técnicas en distintas disciplinas de la ecología y la evolución para entender mejor el origen de la diversidad biológica. Nuestra misión es generar información que nos ayude a enfrentar los problemas complejos asociados a la conservación de ecosistemas de agua dulce. 
+Nuestro grupo de investigación en Hope College (MI, USA) estudia peces de agua dulce en las zonas intertropical y templada. Combinamos técnicas en ciencias pesqueras, ecología y biología evolutiva para entender mejor los orígenes de la diversidad en distintas escalas de organización biológica. Nuestra misión incluye también generar información que nos ayude a enfrentar los problemas complejos asociados a la conservación de la biodiversidad acuática. 
 
 
 ![](./Chorei2-02.png)
