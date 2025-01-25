@@ -1,5 +1,5 @@
 ---
-title: "Freshwater Biology Conservation Lab"
+title: "Freshwater Fish Ecology & Evolution Lab"
 output: 
   html_document:
     css: ['CSSBackgrounds.css', 'CSSFonts.css']
@@ -9,13 +9,13 @@ output:
 <script>
    $(document).ready(function() {
      $head = $('#header');
-     $head.prepend('<img src=\"Freshwater biology.png\" style=\"float: right;width: 300px;padding: 20px\"/>')
+     $head.prepend('<img src=\"NewLogo-ECOLEVOL.png\" style=\"float: right;width: 300px;padding: 20px\"/>')
    });
 </script>
 
 
 
-Our research group at Hope College (MI, USA) studies tropical and temperate freshwater fishes. We combine approaches in fisheries science, ecology, and evolutionary biology to better understand diversity origins across scales of biological organization. Our mission also includes the generation of information that helps us tackle the complex issues associated with aquatic biodiversity conservation.
+Thank you for visiting  our research team's website! Our research group at Hope College (MI, USA) studies tropical and temperate freshwater fishes. We combine approaches in fisheries science, ecology, and evolutionary biology to better understand diversity origins across scales of biological organization. Our mission also includes the generation of information that helps us tackle the complex issues associated with aquatic biodiversity conservation.
 
 
 Nuestro grupo de investigación en Hope College (MI, USA) estudia peces de agua dulce en las zonas intertropical y templada. Combinamos técnicas en ciencias pesqueras, ecología y biología evolutiva para entender mejor los orígenes de la diversidad en distintas escalas de organización biológica. Nuestra misión incluye también generar información que nos ayude a enfrentar los problemas complejos asociados a la conservación de la biodiversidad acuática. 

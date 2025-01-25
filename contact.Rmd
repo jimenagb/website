@@ -8,8 +8,10 @@ output:
 ---
 
 Address:
-A. Paul Schaap Science Center
-35 East 12th Street
+
+A. Paul Schaap Science Center 
+Room SC 2023
+35 East 12th St
 Holland, MI 49423
 
 Email:

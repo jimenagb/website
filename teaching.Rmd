@@ -15,16 +15,18 @@ output:
    });
 </script>
 
-This fall 2024, I will be teaching the course: "Aquatic Ecosystems" at Hope College in Michigan.
+This fall 2024, I will be teaching the course: "Aquatic Ecosystems" 
 
-### Teaching experience
-I have taught Genetics, General Zoology, Introduction to Evolution, and General Biology as instructor of record. I have assisted courses in General Biology, Ecology, Evolutionary Biology and Zoology.
+### Teaching at Hope College
+In the Spring Semester 2025, I am teaching BIOL 106 General Biology II and BIOL 421 Evolutionary Biology lectures . In the Fall Semester 2024, I taught BIOL 395 (lecture and lab) an upper level in Aquatic Ecology.
+
+I have taught Genetics, General Zoology, Introduction to Evolution, and General Biology as instructor of record at Lees McRae College in North Carolina. I have assisted courses in General Biology, Ecology, Evolutionary Biology (University of Wyoming) and Zoology (Universität Konstanz, Germany).
 
 ## Teaching Statement
 
 *“Wisdom* *is* *not* *a* *product* *of* *schooling* *but* *of* *the* *lifelong* *attempt* *to* *acquire* *it.”* — Albert Einstein
 
-My goal is to spark curiosity about biology through concrete experiences, real world examples and evaluating issues in conservation from different perspectives.
+My goal is to spark curiosity about biology through concrete experiences, real world examples, and through evaluating issues in conservation from different perspectives.
 
 One way I instill curiosity in my students is through active learning activities. For instance, students in ecology practiced biodiversity metrics on their taxonomic group and location of choice using iNaturalist, a popular public science platform and growing online biodiversity database. As [an active user](https://www.inaturalist.org/users/318056) of iNaturalist (over ~3,000 observations so far), I was also able to demonstrate engagement for scientific activities beyond traditional settings.  I keep my self up-to-date in technological advances and constantly seek opportunities to present both inquiry-based content in multiple ways, fostering curiosity and learning. 
 
@@ -36,7 +38,7 @@ In addition to incorporating customized content, instilling curiosity and critic
 
 
 ### Service
-I have served as reviewer for Journal of Evolutionary Biology, Hydrobiologia, Journal of Great Lakes Research, Functional Ecology, and the International Journal of Tropical Biology and Conservation (Rev. Biol. Trop. 2016-2022). I have also participated in and helped organized career panels, University of Wyoming's PiE Student Symposium, and #CienciaTica Symposium together with Dr. [Juan Moreira Hernandez](https://scholar.google.com/citations?user=xCGg3AgAAAAJ&hl=en), as well as co-taught workshops in Tanzania together with fellow CE Wagner Lab Dr. [Jessica Rick](http://jessicarick.com) on:
+I have served as reviewer for Journal of Evolutionary Biology, Hydrobiologia, Journal of Great Lakes Research, Functional Ecology, and the International Journal of Tropical Biology and Conservation (Rev. Biol. Trop.). I have also participated in and helped organized career panels, University of Wyoming's PiE Student Symposium, and #CienciaTica Symposium together with Dr. [Juan Moreira Hernandez](https://scholar.google.com/citations?user=xCGg3AgAAAAJ&hl=en), as well as co-taught workshops in Tanzania together with fellow CE Wagner Lab Dr. [Jessica Rick](http://jessicarick.com) on:
 Intro to R computer programming (Summer 2019)
 Statistical Analyses and Advanced R Programming for Fisheries (Summer 2018)
 

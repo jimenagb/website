@@ -7,4 +7,4 @@ output:
       after_body: footer.html
 ---
 
-Please click [HERE](GolcherBJ_CV_7jul24.pdf) for my CV. 
+Please click [HERE](GolcherBJ_CV_21jan25.pdf) for my CV (ENG) or [HERE](docs/GolcherBJ_CV_21jan25ESP.pdf) for my CV (ESP). 

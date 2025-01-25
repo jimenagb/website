@@ -6,8 +6,34 @@ output:
     includes:
       after_body: footer.html
 ---
-This page will soon feature the work of undergraduate researchers at Hope College that will be joining my lab. Stay tuned!
+
+![](./GBLab.png)
+
+
+## Current members
+
+### Kamryn Bice  Fall 2024 & Spring 2025
+Kamryn Bice is leading research examining the behavior of Lake Tanganyikan cichlids using underwater footage. It is in this East African great lake that cichlids appear most ecologically differentiated. So, studying their behavior and how these interact in the wild may reveal clues as to how these closely related species coexist. 
+Kam is a junior Biology major and Environmental Science minor, who loves to be outside. She enjoys spending time with her friends, thrifting, making embroidery, working out and throwing on the Track and Field team. 
+
+### Lucas Day - Fall 2024
+Lucas Day and CC Shaffer kickstarted the lab’s research involving detecting invasive carp (silver carp and bighead carp, collectively referred to as bigheaded carps) in local aquatic ecosystems using environmental DNA.
+Lucas is currently in his junior year and is from Onsted, Michigan. He is planning on becoming a PA and currently works as a direct care worker for adults with special needs. Lucas enjoys working out, hanging out with my friends, and golfing. Lucas also explored Costa Rica as part of the Coffee-themed May term course at Hope College.
+
+### CC Shaffer Fall 2024 & Spring 2025
+CC Shaffer together with Lucas kickstarted the lab’s research involving detecting invasive carp (silver carp and bighead carp, collectively referred to as bigheaded carps) in local aquatic ecosystems using environmental DNA. CC also collected water samples in Saint Joseph, a location in Lake Michigan where environmental DNA of bigheaded carps has already  been detected before using this same technique.
+https://www.michigan.gov/invasives/news/2023/09/28/no-silver-carp-in-new-river-samples 
+
+CC is a sophomore majoring in Environmental science with a Biology concentration, and plans on pursuing a career in marine biology research. In her free time she enjoys hiking, going to the beach, spending time with friends and family, and walking her dog ‘Bingley.’
+
+### Natalie Terry  Fall 2024 - Spring 2025 
+Natalie is leading a research project determining how otoliths vary in invasive carp populations. 
+Natalie is a sophomore majoring in Biology on the pre-vet track with minors in Spanish and Political Science. In her free time, she enjoys reading, working out, making coffee, spending time with her family, and being outdoors. 
+
+### Annie Waldron  Spring 2025
+Annie Waldron is leading a research project monitoring Lake Sturgeon using environmental DNA in local aquatic ecosystems.
+Annie really enjoys being outdoors, whether that's hiking, fishing, or just sitting in the sun. She loves all animals, especially her two dogs, Winston and Georgia. She loves to go on long walks, try new recipes, watch movies, and make crafts.
 
 ## Prospective members
 My lab is currently recruiting undergraduate students at Hope College that are interested in aquatic research. Students excited to do lab, field work, and/or a mix of both lab and field work are welcome to contact me!  
-If you are interested in joining the Freshwater Biology Conservation lab, please check the website and think about what topic is most aligned to your interests and goals. Please contact me and we can chat about opportunities!
+If you are interested in joining the Freshwater Fish Ecology & Evolution lab, please check the website and think about what topic is most aligned to your interests and goals. Please contact me and we can chat about opportunities!
