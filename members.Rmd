@@ -8,35 +8,30 @@ output:
 ---
 
 
-<center>![](./GBLab.png){width=250px}
+<center>![](./GBLab2.png){width=250px}
 
-## Prospective members
+### Prospective members
 My lab is open to recruit undergraduate students at Hope College that are interested in gaining experience in aquatic-focused research. Students excited to do lab, field work, and/or a mix of both lab and field work are welcome to contact me!  
 If you are interested in joining the lab, please check the website and think about what topic is most aligned to your interests and goals. Please contact me and we can chat about opportunities!
 
-## Current members: eDNA project
-CC Shaffer - Environmental Science major with a biology concentration (Fall 2024 - present)
-Emily Drape - Biology major and French minor (Summer 2026 - present)
-Claire VanTol - Biology major and Environmental Science minor (Summer 2026 - present)
-Anna Forey - Biology major (Summer 2026 -  present). Anna co-wrote and was awarded an Environmental Research Pierce Cedar Creek Institute): Congrats Anna!
-
-### Past members: eDNA project
-Annalise (Annie) Waldron - Biology major (Spring 2025 - Summer 2025). Annie co-wrote and was awarded a NOAA - Michigan Sea Grant Environmental Internship: Congrats Annie!
-Lucas Day - Biology major Fall 2024
-Students in Aquatic Ecosystems Fall 2024 (TA: Emma Yonker & Fall 2025)
-
-## Current members: Lake Tanganyika cichlid behavior project
-Calla Vandehaar-Johnsen - Biology major (Spring 2026 - present) 
+### Current members: eDNA project
+-CC Shaffer - Environmental Science major with a biology concentration (Fall 2024 - present)
+-Emily Drape - Biology major and French minor (Summer 2026 - present)
+-Claire VanTol - Biology major and Environmental Science minor (Summer 2026 - present)
+-Anna Forey - Biology major (Summer 2026 -  present). Anna co-wrote and was awarded an Environmental -Research Pierce Cedar Creek Institute): Congrats Anna!
+-Calla Vandehaar-Johnsen - Biology major (Spring 2026 - present) Lake Tanganyika cichlid behavior project
 
 
 ### Past members: Lake Tanganyika cichlid behavior project
-Kam Bice - Biology major and Environmental Science minor (Fall 2024 Fall 2025) 
-Anissa Wille - Environmental Science major (Fall 2025 - Spring 2025)
-Terryn Ferguson - Neuroscience major (Spring 2026)
-Maximus Rose - Biology major (Summer 2025)
+-Kam Bice - Biology major and Environmental Science minor (Fall 2024 Fall 2025) Lake Tanganyika cichlid behavior project
+-Anissa Wille - Environmental Science major (Fall 2025 - Spring 2025) Lake Tanganyika cichlid behavior project
+-Terryn Ferguson - Neuroscience major (Spring 2026) Lake Tanganyika cichlid behavior project
+-Maximus Rose - Biology major (Summer 2025) Lake Tanganyika cichlid behavior project
+-Annalise (Annie) Waldron - Biology major (Spring 2025 - Summer 2025). Annie co-wrote and was awarded a NOAA - Michigan Sea Grant Environmental Internship: Congrats Annie! eDNA project
+-Lucas Day - Biology major Fall 2024 eDNA project
+-Charlene Yen Xin Chia - Biology major (Summer 2025) Invasive carp genomics
+-Students in Aquatic Ecosystems Fall 2024 (TA: Emma Yonker & Fall 2025) eDNA project
 
 
-### Past members: Invasive carp genomics project
-Charlene Yen Xin Chia - Biology major (Summer 2025)
 
 

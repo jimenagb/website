@@ -11,7 +11,7 @@ output:
 <script>
    $(document).ready(function() {
      $head = $('#header');
-     $head.prepend('<img src=\"Circle_JimenaGBtransparent.png\" style=\"float: left;width: 300px;padding: 20px\"/>')
+     $head.prepend('<img src=\"JGB_presenter.png\" style=\"float: right;width: 300px;padding: 20px\"/>')
    });
 </script>
 
@@ -23,7 +23,6 @@ I am an Assistant Professor of Biology at Hope College in Holland, MI (USA), a C
 
  I have always loved learning languages, culture, and history, and more recently contributing to [iNaturalist](https://www.inaturalist.org/users/318056). I value most being outside or underwater, as well as quality time with friends and family.
  
-<center>![](./SilverCarpVector-01.png){width=125px}*Silver Carp*<center> <center>![](./SilverCarpVector-02.png){width=125px}*Bighead Carp*<center>
  
  
 
