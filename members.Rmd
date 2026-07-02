@@ -14,11 +14,11 @@ output:
    });
 </script> 
 
-### Prospective members
-Contact me if you are a Hope College undergraduate student interested in gaining experience in aquatic-focused research. Students excited to do lab, field work, and/or a mix of both lab and field work are welcome to contact me!  
+### Join our team!
+Contact me if you are a Hope College undergraduate student interested in gaining experience in aquatic-focused research. Students excited to do lab, field work, and/or a mix of both lab and field work are welcome to contact me! Also, note that I have a tab called "Code" that walks you through the steps to learning R, which is an important skill in any kind of research endeavor. 
 If you are interested in joining the lab, please check the website and think about what topic is most aligned to your interests and goals. Please contact me and we can chat about opportunities!
 
-### Current members: eDNA project
+### Current members
 We are fortunate to have Cecilia (Cc) Shaffer who is an Environmental Science major with a Biology concentration (Fall 2024 - present),
 Emily Drape who is a Biology major and French minor (Summer 2026 - present), and Claire VanTol who also is a Biology major and Environmental Science minor (Summer 2026 - present; and our Biology Club vice-president!) as our SHARP-CASL 2026 cohort! Check out the amazing "a day in the life of" video they made of their work on our lab's new instagram, as well as a brief interview in Hope College's official instagram page! Anna Forney also joined the lab this summer (Biology major and Spanish minor; Summer 2026 -  present). Anna was awarded an Environmental Research Grant from Pierce Cedar Creek Institute earlier this Spring! Calla Vandehaar-Johnsen is a Biology major who joined earlier this year (Spring 2026 - present) and is leading the  Lake Tanganyika cichlid behavior research in the lab. Calla is participating in a marine ecology course in South Africa this summer!
 
